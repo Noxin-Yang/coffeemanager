@@ -1,0 +1,8 @@
+........
+Bean_id: 1
+Name: 埃塞俄比亚 花魁
+Roasted_date: 2026-06-26
+ Origin: 埃塞俄比亚
+Procession: 水洗
+Flavor: 柑橘 茉莉花 蜂蜜
+........

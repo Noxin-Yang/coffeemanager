@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="coffeemanager.vcxproj" Id="493645ae-073d-4ea0-a6c2-6b946d6cd663" />
+</Solution>
