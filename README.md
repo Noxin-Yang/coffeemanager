@@ -1,13 +1,15 @@
-# Coffeebeans Management System
+# C++ Lab 1. Coffeebeans Management System
 
-一个基于 C++ 的命令行咖啡豆管理系统，用于记录咖啡豆信息、维护冲煮指南，并把咖啡豆与对应的冲煮方案进行配对管理。
+这里的项目记录了我在中山大学计算机学院完成的c++ lab 项目，以记录学习进度，提升能力
 
+这是一个基于 C++ 的命令行咖啡豆管理系统，用来记录咖啡豆信息、维护冲煮指南，并管理咖啡豆与冲煮方案之间的配对关系。
 ## 项目概览
 
 | 项目项 | 说明 |
 | --- | --- |
 | 项目类型 | Windows 控制台应用程序 |
 | 开发语言 | C++ |
+| 技术栈  | C++ ,stl|
 | 标准版本 | C++20 |
 | 工程文件 | `coffeemanager.vcxproj`、`coffeemanager.slnx` |
 | 主要入口 | `main.cpp` |
