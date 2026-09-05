@@ -9,7 +9,7 @@
 | --- | --- |
 | 项目类型 | Windows 控制台应用程序 |
 | 开发语言 | C++ |
-| 技术栈  | C++ ,stl|
+| 技术栈  | C++ , stl |
 | 标准版本 | C++20 |
 | 工程文件 | `coffeemanager.vcxproj`、`coffeemanager.slnx` |
 | 主要入口 | `main.cpp` |
